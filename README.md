@@ -5,4 +5,4 @@ This demo imports an MNIST ConvNet trained in Keras Python, then makes predictio
 
 clone , cd into it, `npm install && ng serve`
 
-![alt text](https://cdn-images-1.medium.com/max/1000/1*LW5_RsWWnBLPZ2oeyeF5wg.gif "TensorFlow ML")
+![alt text](https://github.com/isandeep4/Angular-Digit-Recognizer/blob/main/digit-recognizer-gif.gif)
